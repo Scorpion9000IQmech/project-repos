@@ -15,3 +15,12 @@ the base was simply designing a place for all that to rest on the already comple
 <img width="527" height="172" alt="image" src="https://github.com/user-attachments/assets/70dad351-f96a-40c8-aa41-cfe2a20b9684" />
 <img width="275" height="165" alt="image" src="https://github.com/user-attachments/assets/bf73f26f-71dd-4956-96c2-d40e05537d05" />
 <img width="911" height="517" alt="image" src="https://github.com/user-attachments/assets/064acceb-e14a-4ce9-8f36-cc825b22ac3f" />
+
+For assembly
+1.the base componet simply has a pin and hole which can be inserted
+2.insert 608 bearings tightly into the two holes on the base
+3.the shaft is designed to be inserted into the bearings and the shaft has a extruding peice to stop at the right length
+4.the hole in the back of the shaft on the other side of the bearing is for the motor which for me has a 6.5mm rod, I then used a C clip attached to a larger/smaller C clip for which there is a groove in the shaft
+5.insert the smaller sprocket into the base componet 2 shaft and larger for componet 1
+6. for the chain there are two hole sizes for the plates, the smaller hole size is on the outside, so insert the pin into the smaller one then the larger one, insert a roller, insert another larger one and then another smaller one, closing it with a C clip that latched into the groove on the opposite end
+7.continue this on either side with the same pattern to lengthen the chain
