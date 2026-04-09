@@ -1,4 +1,10 @@
-This Project is a chain driven system, I started by designing the chain link, trying to imitate a bycyle chain, I designed the plates, the rollers, and the pins in a way that it latched on reproducably and I can extend the chain or break it if needed
+This Project is a chain driven system, My goal was originally to design a functioning moving system so that I may practice designing, 3d printing and accounting for tolerances, moving parts as well as other factors, it was a project aimed simply at allowing me to learn, but it has become a working functioning chain driven system, it is a complete, working, moving mechanism. to put it simply it is the mechanism and parts behind a chain system as in a bicycle for example. 
+I Learned alot about designing components such as
+1.accounting for tolerances, how sprockets and gears work, how a chain is made, a few ways of securing methods, ensuring for external forces affecting it, experimenting/redesigning, assembling multiple components/accounting for how they would come together and finally reducing material usage without sacrificing durability.
+2,accounting for 3d printer limitations such as, print bed misalignment, the filament extrusion width compared to components so that I dont create difficult edges or surfaces to print, supports, strength needed for certain components/infill and accounting for where I may need supports to protect important small protrusions of a component
+I also learnt soldering for the purpose of my motor as it was poorly done and ripped off, so I learnt to solder as to remedy it. Beyond the simple project, I also considered How I may want to further improve it by adding gears hence I added extra space for a gear come the time, as for now my prototype of a chain drive system is complete.
+
+I started by designing the chain link, trying to imitate a bycyle chain, I designed the plates, the rollers, and the pins in a way that it latched on reproducably and I can extend the chain or break it if needed
 
 <img width="209" height="160" alt="image" src="https://github.com/user-attachments/assets/cd0d53b7-9cfb-4b0d-91b0-97c9a336d249" />
 
